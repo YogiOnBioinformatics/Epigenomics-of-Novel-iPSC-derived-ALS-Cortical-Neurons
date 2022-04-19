@@ -1,0 +1,227 @@
+[
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9804_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9804_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9801_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9801_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9805_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9805_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9808_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9808_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9809_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9809_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9811_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9811_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9815_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9815_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9810_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9810_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/191017Fra_D19-11164_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/191017Fra_D19-11164_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9812_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9812_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9813_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9813_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/191017Fra_D19-11163_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/191017Fra_D19-11163_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9802_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9802_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9803_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9803_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9806_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_cortical/data/190903Fra_D19-9806_2.fastq.gz"
+        ],
+        "atac.auto_detect_adapter": true,
+        "atac.enable_xcor": true
+    }
+]
