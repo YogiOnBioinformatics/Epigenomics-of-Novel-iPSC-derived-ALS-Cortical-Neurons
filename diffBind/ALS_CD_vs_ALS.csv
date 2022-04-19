@@ -1,0 +1,10 @@
+SampleID,Condition,bamReads,Peaks,PeakCaller
+3EGMiALS-n5,ALS_CD,/nfs/latdata/yraghav/cortical_neuron/2_BAMS/190903Fra_D19-9801_1.trim.nodup.no_chrM_MT.bam,/nfs/latdata/yraghav/cortical_neuron/4_PEAKS/D19-9801.sorted.narrowPeak,narrow
+1DTBiALS-n2,ALS_CD,/nfs/latdata/yraghav/cortical_neuron/2_BAMS/190903Fra_D19-9804_1.trim.nodup.no_chrM_MT.bam,/nfs/latdata/yraghav/cortical_neuron/4_PEAKS/D19-9804.sorted.narrowPeak,narrow
+2DDGiALS-n1,ALS_CD,/nfs/latdata/yraghav/cortical_neuron/2_BAMS/190903Fra_D19-9808_1.trim.nodup.no_chrM_MT.bam,/nfs/latdata/yraghav/cortical_neuron/4_PEAKS/D19-9808.sorted.narrowPeak,narrow
+0PLKiALS-n1,ALS_CD,/nfs/latdata/yraghav/cortical_neuron/2_BAMS/190903Fra_D19-9809_1.trim.nodup.no_chrM_MT.bam,/nfs/latdata/yraghav/cortical_neuron/4_PEAKS/D19-9809.sorted.narrowPeak,narrow
+5AFWiALS-n6,ALS_CD,/nfs/latdata/yraghav/cortical_neuron/2_BAMS/190903Fra_D19-9810_1.trim.nodup.no_chrM_MT.bam,/nfs/latdata/yraghav/cortical_neuron/4_PEAKS/D19-9810.sorted.narrowPeak,narrow
+8CPYiALS-n2,ALS,/nfs/latdata/yraghav/cortical_neuron/2_BAMS/190903Fra_D19-9803_1.trim.nodup.no_chrM_MT.bam,/nfs/latdata/yraghav/cortical_neuron/4_PEAKS/D19-9803.sorted.narrowPeak,narrow
+8RFTiALS-n3,ALS,/nfs/latdata/yraghav/cortical_neuron/2_BAMS/190903Fra_D19-9805_1.trim.nodup.no_chrM_MT.bam,/nfs/latdata/yraghav/cortical_neuron/4_PEAKS/D19-9805.sorted.narrowPeak,narrow
+2GCTiALS-n6,ALS,/nfs/latdata/yraghav/cortical_neuron/2_BAMS/190903Fra_D19-9806_1.trim.nodup.no_chrM_MT.bam,/nfs/latdata/yraghav/cortical_neuron/4_PEAKS/D19-9806.sorted.narrowPeak,narrow
+9CJPiALS-n1,ALS,/nfs/latdata/yraghav/cortical_neuron/2_BAMS/191017Fra_D19-11163_1.trim.nodup.no_chrM_MT.bam,/nfs/latdata/yraghav/cortical_neuron/4_PEAKS/D19-11163.sorted.narrowPeak,narrow
